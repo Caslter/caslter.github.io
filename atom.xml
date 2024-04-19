@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://caslter.github.io</id>
     <title>Geschichten, Geschichten</title>
-    <updated>2024-04-19T02:31:50.094Z</updated>
+    <updated>2024-04-19T10:20:16.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://caslter.github.io"/>
     <link rel="self" href="https://caslter.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://caslter.github.io/images/avatar.png</logo>
     <icon>https://caslter.github.io/favicon.ico</icon>
     <rights>All rights reserved 2024, Geschichten, Geschichten</rights>
+    <entry>
+        <title type="html"><![CDATA[《Bloodline》]]></title>
+        <id>https://caslter.github.io/post/lesslessbloodlinegreatergreater/</id>
+        <link href="https://caslter.github.io/post/lesslessbloodlinegreatergreater/">
+        </link>
+        <updated>2024-04-19T10:19:22.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Salmon]]></title>
         <id>https://caslter.github.io/post/salmon/</id>
